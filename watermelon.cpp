@@ -11,3 +11,4 @@ int main()
 		cout<<"NO";
 	return 0;
 }
+//Checking if it works
